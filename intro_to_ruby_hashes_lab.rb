@@ -4,7 +4,7 @@ end
 	new_hash
 
 def actor
-
+	actor => {}
 end
 
 def monopoly

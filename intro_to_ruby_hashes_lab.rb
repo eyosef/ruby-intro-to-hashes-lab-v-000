@@ -4,7 +4,7 @@ end
 	new_hash
 
 def actor
-	actor => {:name ""}
+	actor => {:name "Michael B. Jordan"}
 end
 
 def monopoly
